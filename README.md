@@ -1,5 +1,5 @@
 # Ngouagna-s-portfolio
-<b>Analytics porfolio<B>
+<p><b>Analytics porfolio<b><p>
 #Project 1: IBM SPSS Fundamentals of data analysis: In this project, I organised and taught data analysis in IBM SPSS beginning from basic
 definitions through non-parametric to parametric tests and survival analysis.(https://www.youtube.com/channel/UC_sdb3ymcFQE9yePQUBg-Iw/featured)
 
